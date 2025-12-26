@@ -19,5 +19,5 @@
 ---
 
 ### 📫 Onde me encontrar
-* 💬 Discord: [Seu ID ou Link]
-* 💼 LinkedIn: [Link]
+* 💬 Discord: [marcoantoniog.p.junior_87223]
+* 💼 LinkedIn: [https://www.linkedin.com/in/marco-antonio-goncalves-pereira-junior-79698739a/]
