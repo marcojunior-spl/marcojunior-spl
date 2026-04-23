@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Marco Antonio 👋
 
-Sou um desenvolvedor apaixonado por **automação**, **Inteligência Artificial** e **modificação de jogos**. Meu foco atual é criar experiências interativas unindo bots complexos e ambientes de jogos.
-
 🔭 **Atualmente trabalhando em:**
 * Automação e Bots com **Discord.py** e **Node.js**.
 * Integração de **LLMs (Groq/Llama)** em aplicações reais.
