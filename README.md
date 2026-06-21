@@ -3,7 +3,6 @@
 🔭 **Atualmente trabalhando em:**
 * Automação e Bots com **Discord.py** e **Node.js**.
 * Integração de **LLMs (Groq/Llama)** em aplicações reais.
-* Criação de Addons e Scripting para **Minecraft Bedrock (MCBE API)**.
 
 ---
 
